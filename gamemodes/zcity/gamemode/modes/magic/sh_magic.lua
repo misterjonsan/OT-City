@@ -1,0 +1,16 @@
+local MODE = MODE
+
+zb = zb or {}
+zb.Points = zb.Points or {}
+
+zb.Points.HMCD_MAGIC_ARCHMAGES = zb.Points.HMCD_MAGIC_ARCHMAGES or {}
+zb.Points.HMCD_MAGIC_ARCHMAGES.Color = Color(120,190,255)
+zb.Points.HMCD_MAGIC_ARCHMAGES.Name = "HMCD_MAGIC_ARCHMAGES"
+
+zb.Points.HMCD_MAGIC_WARLOCKS = zb.Points.HMCD_MAGIC_WARLOCKS or {}
+zb.Points.HMCD_MAGIC_WARLOCKS.Color = Color(190,80,255)
+zb.Points.HMCD_MAGIC_WARLOCKS.Name = "HMCD_MAGIC_WARLOCKS"
+
+zb.Points.HMCD_MAGIC_CAPPOINT = zb.Points.HMCD_MAGIC_CAPPOINT or {}
+zb.Points.HMCD_MAGIC_CAPPOINT.Color = Color(70,70,70)
+zb.Points.HMCD_MAGIC_CAPPOINT.Name = "HMCD_MAGIC_CAPPOINT"

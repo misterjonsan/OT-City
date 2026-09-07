@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "KKS - Felix Argyle SFW PM", "models/Xbox/Felix/Felix_PM.mdl" )
+player_manager.AddValidHands( "KKS - Felix Argyle SFW PM", "models/Xbox/Felix/Felix_carms.mdl", 0, "00000000" )

@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "TrenchBandit_player", "models/player/stalker/compiled 0.34/TrenchBandit.mdl" ) list.Set( "PlayerOptionsModel", "TrenchBandit", "models/player/stalker/compiled 0.34/TrenchBandit.mdl" )

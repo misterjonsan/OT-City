@@ -1,0 +1,2 @@
+player_manager.AddValidModel("assassin_cellar",	"models/schwarzkruppzo/player/assassin.mdl")
+player_manager.AddValidHands("assassin_cellar",	"models/weapons/schwarzkruppzo/c_arms_assassin.mdl", 0, "0000000")

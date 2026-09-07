@@ -1,0 +1,8 @@
+{
+	"UseMySQL": false,
+	"Database": "test",
+	"User": "user",
+	"Password": "pass",
+	"Port": 3306,
+	"Host": "localhost"
+}

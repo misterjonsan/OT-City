@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "The Boys - Black Noir", "models/arty/codmw2022/mp/noncanon/theboys/blacknoir/blacknoir_pm.mdl" )
+player_manager.AddValidHands( "The Boys - Black Noir", "models/arty/codmw2022/mp/noncanon/theboys/blacknoir_vm.mdl", 0, "00" )

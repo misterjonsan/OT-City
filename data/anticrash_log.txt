@@ -1,0 +1,6 @@
+[08.03.2026 00:11:33] [CLEANUP] winterrr - 98 props, 0 vehicles
+[09.03.2026 16:01:58] [CLEANUP] isy - 109 props, 0 vehicles
+[09.03.2026 19:49:58] [CLEANUP] Dest - 108 props, 0 vehicles
+[10.03.2026 16:14:29] [CLEANUP] tigrat - 85 props, 0 vehicles
+[12.03.2026 12:52:35] [CLEANUP] palka - 96 props, 0 vehicles
+[12.03.2026 18:00:59] [CLEANUP] 1van_Z0lo - 96 props, 0 vehicles
